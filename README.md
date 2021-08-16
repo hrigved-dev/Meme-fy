@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Outputs
+![first](assets/first.gif)
+![seconf](assets/second.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
