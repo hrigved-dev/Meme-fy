@@ -1,6 +1,6 @@
 # meme_fy_v1
 
-A new Flutter project.
+A new Flutter project that fetches memes from reddit.
 
 ## Outputs
 ![first](assets/first.gif)
